@@ -4,7 +4,7 @@
   "description": "",
   "main": "Folders.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "lodash": "^4.17.11"
   },
   "devDependencies": {},
